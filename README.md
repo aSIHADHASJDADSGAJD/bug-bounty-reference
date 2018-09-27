@@ -283,7 +283,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [$10k host header](https://sites.google.com/site/testsitehacking/10k-host-header) by Ezequiel Pereira
 
 ### Crossdomain
--  [Cross Domain exploit framework] (https://github.com/sethsec/crossdomain-exploitation-framework)
+-  [Cross Domain exploit framework](https://github.com/sethsec/crossdomain-exploitation-framework)
 ### Subdomain Takeover
 
 - [Hijacking tons of Instapage expired users Domains & Subdomains](http://www.geekboy.ninja/blog/hijacking-tons-of-instapage-expired-users-domains-subdomains/) by geekboy
