@@ -30,6 +30,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Email Related](#email-related)
 - [Money Stealing](#money-stealing)
 - [Miscellaneous](#miscellaneous)
+- [Crossdomain-xml](#crossdomain)
 
 ### Cross-Site Scripting (XSS)
 
@@ -281,6 +282,8 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Adblock Plus and (a little) more in Google](https://adblockplus.org/blog/finding-security-issues-in-a-website-or-how-to-get-paid-by-google)
 - [$10k host header](https://sites.google.com/site/testsitehacking/10k-host-header) by Ezequiel Pereira
 
+### Crossdomain
+    https://github.com/sethsec/crossdomain-exploitation-framework
 ### Subdomain Takeover
 
 - [Hijacking tons of Instapage expired users Domains & Subdomains](http://www.geekboy.ninja/blog/hijacking-tons-of-instapage-expired-users-domains-subdomains/) by geekboy
